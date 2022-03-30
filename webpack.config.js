@@ -22,6 +22,7 @@ module.exports={//parcel index.html
         use: [
         'style-loader',
         'css-loader',
+        'postcss-loader',
         'sass-loader'
       ]
     }
